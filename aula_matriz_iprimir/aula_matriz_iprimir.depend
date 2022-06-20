@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655569677 source:c:\users\sergi\onedrive\documentos\aprendendo c\aula_matriz_iprimir\main.c
+	<stdio.h>
+	<stdlib.h>
+
