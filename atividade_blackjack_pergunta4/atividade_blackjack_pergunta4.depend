@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1655759040 source:c:\users\sergi\onedrive\documentos\aprendendo c\atividade_blackjack_pergunta4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
