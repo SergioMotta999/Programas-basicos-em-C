@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655903213 source:c:\users\sergi\onedrive\documentos\aprendendo c\aula_struct_dentro_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
