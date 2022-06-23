@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655902111 source:c:\users\sergi\onedrive\documentos\aprendendo c\aula_struct_lerteclad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
